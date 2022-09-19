@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.man{
+    
+    list-style-type:none;
+    padding-right: 50px;
+}
+.woman{
+    
+    list-style: none;
+     
+}
+.man button{
+    background: rgb(161, 161, 202);
+    border-radius: 5px;
+}
+.woman button {
+    border-radius: 5px;
+    background-color: pink
+     
+}

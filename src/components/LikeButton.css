@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(131, 164, 164);
+}
+.container{
+    display: flex;
+    justify-content: center space-between ;
+    margin-right: 100px;    
+}
+.user1{
+    padding-right: 200px;
+    border: 5px solid black;
+    height: 300px;
+    width:300px;
+}
+.user2{
+    border: 5px solid black;
+    height: 300px;
+    width:300px;
+    padding-right: 200px;
+     
+}
+
+button{
+    width: 90px;
+    margin-left:  10px;
+    border-radius: 10px;
+   
+}
