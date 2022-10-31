@@ -14,6 +14,9 @@ import FetchOnlineUserData from "./components/FetchOnlineUserData";
 import LoginPostResuest from "./components/LoginPostResuest";
 import Count from "./components/Count";
 import Chocolatewinner from "./components/Chocolatewinner";
+import AddName from './components/AddName';
+import BoxColor from "./components/BoxColor";
+import RepeatedName from "./components/RepeatedName";
 const App = () => {
   return (
     <div className="App">
@@ -30,7 +33,10 @@ const App = () => {
     {/* <FetchOnlineUserData/> */}
     {/* <LoginPostResuest/> */}
     {/* <Count/> */}
-   <Chocolatewinner/>
+   {/* <Chocolatewinner/> */}
+   {/* <AddName/> */}
+   {/* <BoxColor/> */}
+   <RepeatedName/>
     </div>
   );
 

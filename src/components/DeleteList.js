@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import "./DeleteList.css"
+// import "./DeleteList.css"
 
 const DeleteList = () => {
 const manArr = ['kiran', 'niraj', 'diwas', 'aone','nabin']
